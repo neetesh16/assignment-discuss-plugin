@@ -8,12 +8,18 @@
 
 #Running Project
 
-Backend on localhost:3001
-Install Dependency :- npm install
-Run Backend: npm start
+#Backend on localhost:3001
 
-FrontEnd Runs on localhost:3000
-cd adminreact
-Install Dependency :- npm install
-Run Backend: npm start
+#Install Dependency :- npm install
+
+#Run Backend: npm start
+
+
+#FrontEnd Runs on localhost:3000
+
+#cd adminreact
+
+#Install Dependency :- npm install
+
+#Run Backend: npm start
 
